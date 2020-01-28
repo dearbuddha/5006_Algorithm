@@ -1,0 +1,6 @@
+def subcontract(value):
+    print(value)
+    if value <= 1000:
+        return "report to police"
+    else:
+        subcontract(value/2)

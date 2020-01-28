@@ -1,0 +1,3 @@
+Preorder: A, B, D, H, P, Q, I, R, S, E, J, T, U, K, V, W, C, F, L, M, X, Y, G, N, Z, O
+Inorder: P, H, Q, D, R, I, S, B, T, J, U, E, V, K, W, A, L, F, X, M, Y, C, N, Z, G, O
+Postorder: P, Q, H, R, S, I, D, T, U, J, V, W, K, E, B, L, X, Y, M, F, Z, N, O, G, C, A
