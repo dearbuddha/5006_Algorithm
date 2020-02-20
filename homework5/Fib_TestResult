@@ -1,0 +1,27 @@
+The fib of 0 is 0
+The fib of 1 is 1
+The fib of 2 is 1
+The fib of 3 is 2
+The fib of 4 is 3
+The fib of 5 is 5
+The fib of 6 is 8
+The fib of 7 is 13
+The fib of 8 is 21
+The fib of 9 is 34
+The fib of 10 is 55
+--------------------------Provided test cases---------------------------
+The fib of 2 is 1
+The fib of 4 is 3
+The fib of 6 is 8
+The fib of 10 is 55
+The fib of 5 is 5
+The fib of 9 is 34
+The fib of 13 is 233
+The fib of 7 is 13
+A return value of -9999 means illegal input number.
+The fib of -1 is -9999
+The fib of 21 is 10946
+The fib of 17 is 1597
+The fib of 11 is 89
+
+Process finished with exit code 0
